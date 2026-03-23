@@ -1,0 +1,40 @@
+---
+title: "Introdução e apresentação"
+format: html
+---
+
+# Objetivos
+
+Introduzir causalidade e métodos quantitativos. A revolução da credibilidade, surge na economia e espalhou para a Ciência Política. Trata-se de transformar um resultado em crível.
+
+O framework de _potential outcomes_ estabelece uma maneira rigorosa de pensar causalidade.  
+
+Duas abordagens matemáticos para penar causalidade: 
+
+1. _Potential outcomes_
+1. Directed Acyclic Graphs (DAGS)
+
+Fundamentally Unidentified Question: se não for posssível pensar um experimento, o seu desenho de pesquisa está ruim. O experimento é uma boa heurística para se pensar problemas de pesquisa. 
+
+Experimento de survey é o principal método utilizado em desenhos de pesquisa causais. 
+
+Variável instrumental: shift-share instruments. 
+
+Controle sintético: criar um controle, sintético, quando você só tem um caso tratado. 
+
+Machine learning interessa-se em prever, e não em explicar. Recentemente, os interesses se misturaram. Previsão e causalidade se misturaram recentemente (fim do curso). 
+
+Como apresentar resultados empíricos. Trabalho final será apresentação metodológica de artigos. 
+
+
+## Teorema da Anatomia da Regressão 
+
+Quando temos mais de uma varável independente (preditora), fica mais difícil capturar o que cada variável faz. O Teorema diz que: 
+
+$$ y = \alpha + \beta_{1}X_{1} +\beta_{2}X_{2} + \epsilon
+$$
+
+O que acontecem é que entendemos o que $X_1$ compartilha com $X_2$. 
+
+Final da aula..
+
